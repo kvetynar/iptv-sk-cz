@@ -4,6 +4,8 @@ from pathlib import Path
 SOURCES = [
     "https://iptv-org.github.io/iptv/countries/sk.m3u",
     "https://iptv-org.github.io/iptv/countries/cz.m3u",
+    "https://iptv-org.github.io/iptv/categories/movies.m3u",
+    "https://iptv-org.github.io/iptv/categories/series.m3u",
 ]
 out = ["#EXTM3U"]
 seen = set()
