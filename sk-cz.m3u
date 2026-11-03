@@ -45,6 +45,10 @@ https://dash3.antik.sk/live/test_duck_plus/playlist.m3u8
 #EXTINF:-1 tvg-id="Dvojka.sk@SD" tvg-logo="https://i.imgur.com/ft10wQn.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" group-title="Documentary",Dvojka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_dvojka_25p/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport1.fr@Czechia" tvg-logo="https://i.imgur.com/olQJgm7.png" group-title="Sports",Eurosport 1 Czechia
+http://88.212.7.14/live/test_esp1_hevc_tizen/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport2.fr@Czechia" tvg-logo="https://i.imgur.com/f56dHgR.png" group-title="Sports",Eurosport 2 Czechia
+http://88.212.7.14/live/test_esp2_hevc_tizen/playlist.m3u8
 #EXTINF:-1 tvg-id="FilmPlus.cz@SD" tvg-logo="https://i.imgur.com/OBYuY3S.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36" group-title="Movies",Film+ (Czech Republic)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 http://88.212.15.50/live/test_film_plus_25p/playlist.m3u8
@@ -72,6 +76,10 @@ http://88.212.15.50/live/test_jednotka_25p/playlist.m3u8
 http://88.212.15.50/live/test_kino_barrandov_sd_hevc50/playlist.m3u8
 #EXTINF:-1 tvg-id="LifeTv.sk@SD" tvg-logo="https://i.imgur.com/jO8kAY2.png" group-title="Religious",LifeTv (1080p)
 https://lifetv.mpks.sk/s.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@4KCzechia" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature 4K Czechia
+http://88.212.15.50/live/test_love_nature_uhd_atktv/playlist.m3u8
+#EXTINF:-1 tvg-id="LoveNature.ca@Czechia" tvg-logo="https://tv.lovenature.com/wp-content/uploads/2024/10/LoveNature2024_Logo_full_colour-copy.png" group-title="Outdoor",Love Nature Czechia
+http://88.212.15.50/live/test_lovenature/playlist.m3u8
 #EXTINF:-1 tvg-id="MinimaxCEE.cz@SD" tvg-logo="https://i.imgur.com/WWOlm1x.png" group-title="Kids",Minimax CEE (576p)
 http://88.212.15.50/live/test_minimax/playlist.m3u8
 #EXTINF:-1 tvg-id="MTR.sk@SD" tvg-logo="https://www.mtr.sk/img/logo-mtr-0.png" group-title="General",MTR (1080p)
@@ -124,6 +132,8 @@ http://88.212.15.50/live/test_sport_2/playlist.m3u8
 http://88.212.15.50/live/test_rtvs_sport_hevc/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleviziaMocenok.sk@SD" tvg-logo="https://i.imgur.com/psb8GxZ.png" group-title="General",Televizia Mocenok (720p)
 https://5ca49f2417d90.streamlock.net/mocenok/livestream/playlist.m3u8
+#EXTINF:-1 tvg-id="Travelxp.in@Czechia" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TRAVELXP/images/LOGO_HD/image.png" group-title="Travel",Travelxp Czechia
+http://88.212.7.14/live/travel_xp/index.m3u8
 #EXTINF:-1 tvg-id="TurboTV.sk@SD" tvg-logo="https://i.imgur.com/HI7bCHq.png" group-title="Undefined",Turbo TV (1080p)
 https://dash3.antik.sk/live/turbo_tv_avc_25p/playlist.m3u8
 #EXTINF:-1 tvg-id="TV8.sk@SD" tvg-logo="https://i.imgur.com/Z7URrp1.png" group-title="Undefined",TV8 (Slovakia) (576p)
@@ -678,6 +688,8 @@ http://23.237.104.106:8080/USA_CINEMAX_WEST/index.m3u8
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@SD" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia (720p) [Geo-blocked]
 https://tinyurl.com/44efw2rx
 #EXTINF:-1 tvg-id="CinemaxAsia.sg@HD" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia HD (1080p)
+http://202.150.165.66:8088/play/104-Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="CinemaxAsia.sg@Taiwan" tvg-logo="https://i.imgur.com/c8crJfA.png" group-title="Movies",Cinemax Asia Taiwan (1080p)
 http://125.227.210.55:1001/VideoInput/play.ts
 #EXTINF:-1 tvg-id="CinemaxClassics.us@East" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/66/Cinemax_Classics_Logo.png/960px-Cinemax_Classics_Logo.png" group-title="Movies",Cinemax Classics (1080p)
 http://23.237.104.106:8080/USA_5STARMAX/index.m3u8
@@ -872,15 +884,17 @@ https://nosignal1.antenaplay.ro/hls/fb-hits-sd/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Adria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Adria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
 https://webtvstream.bhtelecom.ba/filmbox_stars.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Movies",FILMBOX+ Love & Crime Bulgaria (720p)
-http://hls127.freeott.top:8080/BG_FilmBox_Stars_HD/video.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ Love & Crime Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a066
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Movies",FILMBOX+ Love & Crime Magyar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 http://88.212.7.14/live/test_filmbox_plus_hun_atk_1200/playlist.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusLoveCrime.pl@Romania" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Blove-and-crime.png" group-title="Movies",FILMBOX+ Love & Crime Romania
 https://nosignal1.antenaplay.ro/hls/fb-love-and-crime-sd/index.m3u8
-#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Movies",FILMBOX+ One Bulgaria (576p)
-http://hls127.freeott.top:8080/BG_Filmbox/video.m3u8
+#EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Bulgaria" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3" group-title="Movies",FILMBOX+ One Bulgaria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.3
+http://213.91.179.28:8000/play/a06i
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Magyar" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Movies",FILMBOX+ One Magyar
 http://88.212.7.14/live/filmbox_hungary/index.m3u8
 #EXTINF:-1 tvg-id="FILMBOXPlusOne.pl@Nederland" tvg-logo="https://spiintl.com/data/files/kcfinderUploadDir/images/filmboxplus/filmbox%2Bone.png" group-title="Movies",FILMBOX+ One Nederland
@@ -1239,8 +1253,6 @@ https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 https://appletree-mytimeuk-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetworkEast.us@SD" tvg-logo="https://i.imgur.com/HYgxPVQ.png" group-title="Movies",MyTime Movie Network East (1080p)
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="NashKinomir.de@SD" tvg-logo="https://i.imgur.com/7M1J42A.png" group-title="Movies",Nash Kinomir (576p)
-http://hls127.freeott.top:8080/Nash_kinomir/video.m3u8
 #EXTINF:-1 tvg-id="NashKinopokaz.ru@HD" tvg-logo="https://i.imgur.com/iwTMl8O.png" group-title="Movies",Nash Kinopokaz HD (576p)
 http://46.53.200.153:7777/play/SRT_Nash_kinopokaz/index.m3u8
 #EXTINF:-1 tvg-id="Nashe.ru@HD" tvg-logo="https://i.imgur.com/KO8dhi9.png" group-title="Movies;Series",Nashe HD (576p)
@@ -1712,8 +1724,6 @@ https://prod-runn.cdn.runn.tv/shemaroo/stream/smrfgn/playlist.m3u8
 https://mumt04.tangotv.in/m18aqlK4SHEMAROOJOSH/index.m3u8
 #EXTINF:-1 tvg-id="Shokiruyushchee.ru@HD" tvg-logo="https://i.imgur.com/UG63hZ0.png" group-title="Movies",Shokiruyushchee HD (1080p)
 http://stream.mcquack.net/75/index.m3u8
-#EXTINF:-1 tvg-id="ShotTV.ru@SD" tvg-logo="https://i.imgur.com/MLSG7tA.png" group-title="Movies",Shot TV (576p)
-http://hls127.freeott.top:8080/SHOT_TV/video.m3u8
 #EXTINF:-1 tvg-id="ShubhCinemaTV.in@SD" tvg-logo="https://i.imgur.com/RQhorAG.png" group-title="Movies",Shubh Cinema TV (720p)
 https://d393sxaxig6bax.cloudfront.net/out/v1/589cf2cf44bf42bb941e817a2240d62e/index.m3u8
 #EXTINF:-1 tvg-id="SilkWayCinema.kz@SD" tvg-logo="https://www.cableman.ru/sites/default/files/Silk-way-CINEMA.png" group-title="Movies",Silk Way Cinema (1080p) [Geo-blocked]
@@ -2789,6 +2799,8 @@ http://190.93.224.42/TNT-NOVELAS/index.m3u8
 http://45.162.64.114/TNT_NOVELAS/index.m3u8
 #EXTINF:-1 tvg-id="TNTNovelas.us@Colombia" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas Colombia (1080p)
 http://190.61.47.54:8000/play/a02f/index.m3u8
+#EXTINF:-1 tvg-id="TNTNovelas.us@ColombiaHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/TNT_Novelas_2025.svg/1920px-TNT_Novelas_2025.svg.png" group-title="Series",TNT Novelas ColombiaHD (1080p)
+http://181.78.79.131:8000/play/a0na
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@Panregional" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" group-title="Series",TNT Series Latin America (1080p)
 http://168.196.127.137:6001/play/a095/index.m3u8
 #EXTINF:-1 tvg-id="TNTSeriesLatinAmerica.us@South" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/75/TNT_Series_Logo_2016.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/154.0.0.0 Safari/537.36 VLC/3.0.18 LibVLC/3.0.18" group-title="Series",TNT Series Latin America South
